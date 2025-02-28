@@ -1,0 +1,98 @@
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\JeuDePoint - Copie - Copie (3) - Copie\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point  MODIFICATION - Copie\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\ref\JeuDePoint.dll

@@ -1,0 +1,35 @@
+Wanda VS Tina
+Wanda
+     (240;160)
+Tina
+     (240;80)
+Wanda
+     (400;160)
+Tina
+     (480;80)
+Wanda
+     (240;320)
+Tina
+     (320;80)
+Wanda
+     (400;320)
+Tina
+     (400;80)
+Wanda
+     (320;240)
+Tina
+     (480;80)
+Wanda
+     (320;160)
+Tina
+     (560;480)
+Wanda
+     (320;320)
+Tina
+     (320;560)
+Wanda
+     (240;240)
+Tina
+     (480;480)
+Wanda
+     (400;240)
