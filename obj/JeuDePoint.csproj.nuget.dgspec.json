@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nam\\Documents\\S3\\Programmation\\C#\\Jeu De Point-Ty leizy - Copie (2)\\JeuDePoint.csproj": {}
+    "C:\\Users\\Nam\\Documents\\GitHub\\Jeu-de-point\\JeuDePoint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nam\\Documents\\S3\\Programmation\\C#\\Jeu De Point-Ty leizy - Copie (2)\\JeuDePoint.csproj": {
+    "C:\\Users\\Nam\\Documents\\GitHub\\Jeu-de-point\\JeuDePoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nam\\Documents\\S3\\Programmation\\C#\\Jeu De Point-Ty leizy - Copie (2)\\JeuDePoint.csproj",
+        "projectUniqueName": "C:\\Users\\Nam\\Documents\\GitHub\\Jeu-de-point\\JeuDePoint.csproj",
         "projectName": "JeuDePoint",
-        "projectPath": "C:\\Users\\Nam\\Documents\\S3\\Programmation\\C#\\Jeu De Point-Ty leizy - Copie (2)\\JeuDePoint.csproj",
+        "projectPath": "C:\\Users\\Nam\\Documents\\GitHub\\Jeu-de-point\\JeuDePoint.csproj",
         "packagesPath": "C:\\Users\\Nam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nam\\Documents\\S3\\Programmation\\C#\\Jeu De Point-Ty leizy - Copie (2)\\obj\\",
+        "outputPath": "C:\\Users\\Nam\\Documents\\GitHub\\Jeu-de-point\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nam\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

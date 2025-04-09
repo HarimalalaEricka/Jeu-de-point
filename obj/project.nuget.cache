@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1vT2f5ZDr2c=",
+  "dgSpecHash": "MUN49X/FE6M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nam\\Documents\\S3\\Programmation\\C#\\Jeu De Point-Ty leizy - Copie (2)\\JeuDePoint.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Nam\\Documents\\GitHub\\Jeu-de-point\\JeuDePoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nam\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.3\\system.configuration.configurationmanager.9.0.3.nupkg.sha512",
+    "C:\\Users\\Nam\\.nuget\\packages\\system.data.oledb\\9.0.3\\system.data.oledb.9.0.3.nupkg.sha512",
+    "C:\\Users\\Nam\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.3\\system.diagnostics.eventlog.9.0.3.nupkg.sha512",
+    "C:\\Users\\Nam\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.3\\system.diagnostics.performancecounter.9.0.3.nupkg.sha512",
+    "C:\\Users\\Nam\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.3\\system.security.cryptography.protecteddata.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

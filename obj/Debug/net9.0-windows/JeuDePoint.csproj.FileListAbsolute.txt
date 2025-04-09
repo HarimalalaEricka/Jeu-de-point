@@ -96,3 +96,28 @@ C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj
 C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.pdb
 C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
 C:\Users\Nam\Documents\S3\Programmation\C#\Jeu De Point-Ty leizy - Copie (2)\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\JeuDePoint.exe
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\JeuDePoint.deps.json
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\JeuDePoint.runtimeconfig.json
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.AssemblyInfo.cs
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.sourcelink.json
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\refint\JeuDePoint.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.pdb
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.genruntimeconfig.cache
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\ref\JeuDePoint.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\System.Data.OleDb.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Data.OleDb.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.csproj.AssemblyReference.cache
+C:\Users\Nam\Documents\GitHub\Jeu-de-point\obj\Debug\net9.0-windows\JeuDePoint.csproj.Up2Date
